@@ -1,0 +1,8 @@
+FUTURE IMPROVEMENTS
+
+Optimization:
+- only scrape links from prefered districts in Standard
+ 
+Bugs:
+- StandardScraper splits lines into 2 seperate ones
+- invalid data in some scraped rows
