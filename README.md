@@ -5,9 +5,10 @@ Optimized for www.standard.at and www.willhaben.at.
 
 
 **Future Improvements**
-Optimization:
-* only scrape links from prefered districts in Standard
 
-Bugs:
-* StandardScraper splits lines into 2 seperate ones
-* invalid data in scraped rows
+> Optimization:
+> * only scrape links from prefered districts in Standard
+> 
+> Bugs:
+> * StandardScraper splits lines into 2 seperate ones
+> * invalid data in some scraped rows
